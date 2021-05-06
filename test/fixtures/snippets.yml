@@ -1,0 +1,29 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  author: MyString
+  source: MyString
+  language: MyString
+  code_snippet: MyText
+  description: MyText
+  algorithm: MyString
+  library: MyString
+  category: MyString
+  difficulty: 1
+  language_version: MyString
+  library_version: MyString
+  dependencies: MyString
+
+two:
+  author: MyString
+  source: MyString
+  language: MyString
+  code_snippet: MyText
+  description: MyText
+  algorithm: MyString
+  library: MyString
+  category: MyString
+  difficulty: 1
+  language_version: MyString
+  library_version: MyString
+  dependencies: MyString
